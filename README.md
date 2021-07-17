@@ -1,6 +1,6 @@
 # Hitesh_Portfolio
 
-[**Project -1 - Fatal Collisions**](https://github.com/Hitesh150497/Fatal_collisions_MachineLearning_python)
+[**Project -1 - Fatal Collisions - Python**](https://github.com/Hitesh150497/Fatal_collisions_MachineLearning_python)
 
 •	Predicted the rates of Fatal collisions with the reference of past 10 years Fatal and Non-Fatal collisions dataset using machine learning algorithms in Python (NumPy, Pandas, Scikit-Learn). Carefully, looked at the contribution of different variables.
 •	Scaled and transformed 40% of data to improve the data processing and data quality.
@@ -16,3 +16,4 @@
 •	Loan and financial related variables help in purpose of loan, application score, installment amount, balance amount, disbursed amount, arrears amount.
 •	Branch ID talks about the customers of specific geography.
 •	The attached presentation will help understand the story related to data and analytical file to go through the raw data, and tableau file to see in tableau.
+
