@@ -8,7 +8,7 @@
 •	Found insights using exploratory data analysis, visualization, and data modeling (Linear/Logistic Regression) and then proposed solutions to the clients.
 •	Created different visuals to support the stories and then presented the most impactful 10 variables to clients for improvements.
 
-[**Project -2 - Tableau-Loan-dataset**](https://github.com/Hitesh150497/Tableau_loan_dataset)
+[**Project -2 - Loan-dataset - Tableau**](https://github.com/Hitesh150497/Tableau_loan_dataset)
 
 •	The given dataset has different variables to recognize the patterns between the people who are paying/not paying their loans in time.
 •	The user-centric data has lots of demographic information like gender, marital status.
